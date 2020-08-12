@@ -1,0 +1,3 @@
+[submodule "K-Means/reveal.js"]
+	path = K-Means/reveal.js
+	url = https://github.com/hakimel/reveal.js.git
