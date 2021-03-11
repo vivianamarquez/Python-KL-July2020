@@ -1,0 +1,21 @@
+Número,Ciudad,País,Lat,Lon,Fecha,Motivo,X
+1,Bogotá,Colombia,4.7110,-74.0721,2013,Inicio,15
+2,Villa de Leyva,Colombia,5.6365,-73.5271,2014,Conferencia,3
+3,Tatacoa,Colombia,3.2324,-75.1688,2014,Conferencia,3
+4,São Paulo,Brasil,-23.5505,-46.6333,2014,Intercambio,13
+5,Barranquilla,Colombia,11.0041,-74.807,2014,Conferencia,3
+6,Medellín,Colombia,6.2476,-75.5658,2015,Conferencia,3
+7,Tunja,Colombia,5.5446,-73.3576,2015,Conferencia,3
+8,Seattle,USA,47.6062,-122.3321,2016,Conferencia,3
+9,Moscú,Rusia,55.7558,37.6173,2016,Intercambio,13
+10,Atlanta,USA,33.7490,-84.388,2017,Conferencia,3
+11,Queretaro,México,20.5888,-100.3899,2017,Escuela de verano,10
+12,Berkeley,USA,37.8715,-122.273,2017,Escuela de verano,10
+13,Bucaramanga,Colombia,7.1193,-73.1227,2017,Conferencia,3
+14,Salt Lake City,USA,40.7608,-111.891,2017,Conferencia,3
+15,Valparaíso,Chile,-33.0472,-71.6127,2018,Escuela de verano,10
+16,Ames,USA,42.0308,-93.6319,2018,Conferencia,3
+17,Los Angeles,USA,34.0522,-118.2437,2018,Conferencia,3
+18,San Francisco,USA,37.7749,-122.4194,2018,Maestria,13
+19,Miami,USA,25.7617,-80.1918,2019,Trabajo,10
+20,San Luis Potosí,México,22.1565,-100.9855,2019,Amigos,10
