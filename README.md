@@ -1,2 +1,2 @@
-# Python-KL-July2020
-Código usando para presentaciones en Julio 2020 
+# Python-KL
+Código usando para presentaciones en Python para la Konrad Lorenz.
